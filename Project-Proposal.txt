@@ -1,3 +1,14 @@
-Final Project Proposal
+2021-2022 NBA analytics 
 
 Group Members: Zack McWilliams, Louis Warner, Dylan Suther
+
+The NBA has been trending recently to hiring data analysts to breakdown advanced stats to the coaching staff, such as most effective lineups on the court, matchups that have the highest success rate of a basket and much more. Our project goal is to break down stats from the 2021-2022 season to break down which player is most successful at a certain category.
+
+We plan on using data from: https://www.basketball-reference.com/leagues/NBA_2022_per_game.html
+This site breaks down each player, their stats for so many categories and gives us opportunities to manipulate the data in order to present it to the front office of a basketball organization.
+
+The method that I was planning on using was BeautifulSoup to scrape the data from the website and pandas to break it down into presentable graphs so it can be easier to present to the coaches and staff. 
+
+The only reading that will be needed for this assignment is the stats that are posted on the website and the team record.
+
+I would want to evaluate the statistics by breaking down from team to division to conference to league, comparing players determining whos excels the most in a certain category.
